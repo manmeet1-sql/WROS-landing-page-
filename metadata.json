@@ -1,0 +1,6 @@
+{
+  "name": "WROS™ — Warranty Recovery Operating System",
+  "description": "India's first Warranty Recovery Operating System by Rococo Consultant Pvt. Ltd., built for automotive dealerships to eliminate revenue leakage and recover every warranty rupee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
